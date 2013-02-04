@@ -6,7 +6,7 @@ $lines = file('data/locations.csv',FILE_IGNORE_NEW_LINES);
 $location = explode(',',$lines[$_GET['location']]);
 ?>
 
-<h2>Edit Band</h2>
+<h2>Edit Location</h2>
 <form class="form-horizontal" action="actions/edit_location.php" method="post">
 	<input type="hidden" name="linenum" value="<?php echo $_GET['location'] ?>" />
 	<div class="control-group">

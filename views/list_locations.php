@@ -1,4 +1,4 @@
-<h2>All Bands</h2>
+<h2>All Locations</h2>
 <table class="table table-striped">
 <thead>
 	<tr>
