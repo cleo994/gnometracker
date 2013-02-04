@@ -3,9 +3,9 @@
 <thead>
 	<tr>
 		<th>Subject</th>
-		<th>Name</th>
-		<th>Genre</th>
-		<th># Albums</th>
+		<th>Date</th>
+		<th>Time</th>
+		<th>Location</th>
 	</tr>
 </thead>
 <tbody>
